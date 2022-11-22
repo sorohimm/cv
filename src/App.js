@@ -92,7 +92,7 @@ function App() {
                     </p>
 
                     <br></br>
-                    <p>Some of my hard skills🦾
+                    <p>And finally a little bit about my hard skills🦾
                         <pre>{`
                             {
                                 "languages":          ["Golang", "C++", "SQL"],
