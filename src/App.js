@@ -55,7 +55,6 @@ function App() {
                         </b>
                     </b>
 
-
                     <p>Hi, this page was created so that before our acquaintance you already had a little idea about
                         me and what I was doing or am doing now. Below I briefly described what I used to do and
                         what I am doing now, as well as about the technology stack with which I work.
@@ -78,7 +77,7 @@ function App() {
                                 Services Ltd.</a>
                             &nbsp; Well, in this company I was engaged in localization of international projects in
                             the field of medicine for users from the Russian Federation, and also developed data
-                            processing services from external systems..
+                            processing services from external systems.
                         </p>
                         <p>
                             • Feb 2021 — Sep 2021
@@ -103,8 +102,8 @@ function App() {
                                 "brokers":            ["Apache Kafka", "NATS Streaming"],
                                 "technologies":       ["Docker", "Prometheus", "git"],
                                 "ultimate_abilities": ["googling"]
-                            }`}</pre>
-
+                            }`}
+                        </pre>
                     </p>
                 </main>
                 <p className='line'>{hr}</p>
